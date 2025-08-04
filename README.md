@@ -12,7 +12,7 @@ This research presents an automated car measurement system utilizing computer vi
 
 ## System Interface
 
-![Car Measurement System Interface](Screenshot%202025-08-04%20at%209.54.43%20PM.png)
+![Car Measurement System Interface](demo.png)
 
 *Figure 1: Web-based interface showing real-time car measurement with computer vision annotations*
 
